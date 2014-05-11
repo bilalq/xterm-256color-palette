@@ -1,7 +1,7 @@
 {
   "name": "xterm-256color-palette",
   "repo": "bilalq/xterm-256color-palette",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Exposes xterm-256color's palette as a list of Strings",
   "keywords": [
     "xterm",
