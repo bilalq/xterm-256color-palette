@@ -1,0 +1,9 @@
+{
+  "asi": true,
+  "undef": true,
+  "laxcomma": true,
+  "bitwise": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "quotmark": true
+}
