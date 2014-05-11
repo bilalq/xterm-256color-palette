@@ -1,0 +1,27 @@
+{
+  "name": "xterm-256color-palette",
+  "version": "0.0.1",
+  "description": "Exposes xterm-256color's palette as a list of Strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bilalq/xterm-256color-palette.git"
+  },
+  "keywords": [
+    "xterm",
+    "256",
+    "color",
+    "colour",
+    "palette",
+    "8bit"
+  ],
+  "author": "Bilal Quadri <bilalquadri92@gmail.com> (http://bilalquadri.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilalq/xterm-256color-palette/issues"
+  },
+  "homepage": "https://github.com/bilalq/xterm-256color-palette"
+}
