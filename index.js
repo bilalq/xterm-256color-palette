@@ -1,3 +1,9 @@
+/**
+ * xterm-256color-palette
+ *
+ * Released under the MIT license
+ * https://github.com/bilalq/xterm-256color-palette/blob/master/LICENSE
+ */
 ;(function (root, factory) {
   /* globals define:false, module:false, exports: false */
   if (typeof define === 'function' && define.amd) {
